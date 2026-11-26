@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ACT-01",
+    "studentName": "Aarav Sharma",
+    "studentId": "ARIT-2026-STU01",
+    "course": "Full Stack Development",
+    "dayNumber": "Day 1",
+    "activityDate": "2026-11-15",
+    "taskTitle": "Day 1 – HTML Introduction",
+    "workDescription": "Configured development environment, created semantic markup for AR IT corporate portal header, hero section, and accessible forms.",
+    "taskStatus": "Approved",
+    "mentorFeedback": "Well structured semantic elements. Excellent use of meta viewport and ARIA landmarks.",
+    "mentorName": "Rajesh K. Sharma"
+  },
+  {
+    "id": "ACT-02",
+    "studentName": "Sneha Patel",
+    "studentId": "ARIT-2026-STU02",
+    "course": "Frontend Development",
+    "dayNumber": "Day 2",
+    "activityDate": "2026-11-16",
+    "taskTitle": "Day 2 – CSS Fundamentals",
+    "workDescription": "Developed responsive Flexbox grid and media queries for tablet & mobile views. Integrated CSS custom variables for dark/light themes.",
+    "taskStatus": "Approved",
+    "mentorFeedback": "Clean typography and responsive break-points match Figma guidelines accurately.",
+    "mentorName": "Pooja Sundaram"
+  },
+  {
+    "id": "ACT-03",
+    "studentName": "Rohan Kulkarni",
+    "studentId": "ARIT-2026-STU03",
+    "course": "Python Programming",
+    "dayNumber": "Day 3",
+    "activityDate": "2026-11-17",
+    "taskTitle": "Day 3 – JavaScript Basics",
+    "workDescription": "Implemented asynchronous data fetching with ES6 promises, error handling with try/catch blocks, and localStorage state synchronization.",
+    "taskStatus": "Approved",
+    "mentorFeedback": "Good error handling. Added comments for debounced search logic.",
+    "mentorName": "Vikramaditya Verma"
+  },
+  {
+    "id": "ACT-04",
+    "studentName": "Sneha Patel",
+    "studentId": "ARIT-2026-STU02",
+    "course": "Frontend Development",
+    "dayNumber": "Day 4",
+    "activityDate": "2026-11-18",
+    "taskTitle": "Day 4 – React Introduction",
+    "workDescription": "Architected reusable UI components: StatCard, Badge, FilterDropdown, and Modal. Handled props drilling using React Context API.",
+    "taskStatus": "Pending Review",
+    "mentorFeedback": "In review. Checking component re-render performance with memoization.",
+    "mentorName": "Pooja Sundaram"
+  },
+  {
+    "id": "ACT-05",
+    "studentName": "Aarav Sharma",
+    "studentId": "ARIT-2026-STU01",
+    "course": "Full Stack Development",
+    "dayNumber": "Day 5",
+    "activityDate": "2026-11-19",
+    "taskTitle": "Day 5 – Mini Project Development",
+    "workDescription": "Built full end-to-end Student Registration feature connected with local REST mock API. Included client-side form validation and toast alerts.",
+    "taskStatus": "Approved",
+    "mentorFeedback": "Outstanding delivery! Production-ready code quality and flawless UX.",
+    "mentorName": "Rajesh K. Sharma"
+  },
+  {
+    "id": "ACT-06",
+    "studentName": "Kavya Ramanathan",
+    "studentId": "ARIT-2026-STU06",
+    "course": "Backend Development",
+    "dayNumber": "Day 6",
+    "activityDate": "2026-11-20",
+    "taskTitle": "Day 6 – REST API Integration",
+    "workDescription": "Designed CRUD endpoints for students and courses with JWT bearer authentication and role-based permissions middleware.",
+    "taskStatus": "Needs Revision",
+    "mentorFeedback": "Please ensure bcrypt salt rounds are at least 10 and return sanitized JSON omitting password fields.",
+    "mentorName": "Rajesh K. Sharma"
+  }
+]

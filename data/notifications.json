@@ -1,0 +1,91 @@
+[
+  {
+    "id": "NOTIF-7725",
+    "type": "announcement",
+    "title": "Announcement: System Integration Notice",
+    "message": "Backend and Frontend integration verified successfully.",
+    "timestamp": "Just now",
+    "unread": true,
+    "link": "/communication",
+    "createdAt": "2026-11-26T07:40:57.725Z",
+    "updatedAt": "2026-11-26T07:40:57.725Z"
+  },
+  {
+    "id": "NOTIF-7709",
+    "type": "payment",
+    "title": "Payment Received",
+    "message": "Payment of ₹10,000 received from Pooja Verma.",
+    "timestamp": "Just now",
+    "unread": true,
+    "link": "/payments",
+    "createdAt": "2026-11-26T07:40:57.722Z",
+    "updatedAt": "2026-11-26T07:40:57.722Z"
+  },
+  {
+    "id": "NOTIF-7626",
+    "type": "activity",
+    "title": "Daily Activity Submitted",
+    "message": "Pooja Verma submitted Day 7 – Database Schema & Integration Tests for review.",
+    "timestamp": "Just now",
+    "unread": true,
+    "link": "/daily-activities",
+    "createdAt": "2026-11-26T07:40:57.626Z",
+    "updatedAt": "2026-11-26T07:40:57.626Z"
+  },
+  {
+    "id": "NOTIF-7614",
+    "type": "registration",
+    "title": "New Student Added",
+    "message": "Pooja Verma enrolled in Full Stack Development.",
+    "timestamp": "Just now",
+    "unread": true,
+    "link": "/students",
+    "createdAt": "2026-11-26T07:40:57.615Z",
+    "updatedAt": "2026-11-26T07:40:57.615Z"
+  },
+  {
+    "id": "NOTIF-01",
+    "type": "registration",
+    "title": "New Student Registration",
+    "message": "Varun Teja registered for Web Development course via online portal.",
+    "timestamp": "15 minutes ago",
+    "unread": true,
+    "link": "/students"
+  },
+  {
+    "id": "NOTIF-02",
+    "type": "activity",
+    "title": "Daily Activity Submitted",
+    "message": "Sneha Patel submitted Day 4 – React Introduction for review.",
+    "timestamp": "45 minutes ago",
+    "unread": true,
+    "link": "/daily-activities"
+  },
+  {
+    "id": "NOTIF-03",
+    "type": "payment",
+    "title": "Payment Received",
+    "message": "Payment of ₹22,000 received from Meera Nambiar for UI/UX Design.",
+    "timestamp": "2 hours ago",
+    "unread": false,
+    "link": "/payments"
+  },
+  {
+    "id": "NOTIF-04",
+    "type": "internship",
+    "title": "Internship Completed",
+    "message": "Aarav Sharma completed 6-month Full Stack internship with Distinction.",
+    "timestamp": "1 day ago",
+    "unread": false,
+    "link": "/certificates"
+  },
+  {
+    "id": "NOTIF-05",
+    "type": "application",
+    "title": "New Internship Application",
+    "message": "Deepak Roy submitted internship application for Full Stack Development.",
+    "timestamp": "2 days ago",
+    "unread": false,
+    "link": "/internships"
+  }
+]

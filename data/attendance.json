@@ -1,0 +1,92 @@
+[
+  {
+    "studentId": "ARIT-2026-STU02",
+    "studentName": "Sneha Patel",
+    "course": "Frontend Development",
+    "date": "2026-11-26",
+    "status": "Present",
+    "markedAt": "01:10 PM",
+    "reason": "",
+    "id": "ATT-1795678857706",
+    "createdAt": "2026-11-26T07:40:57.706Z",
+    "updatedAt": "2026-11-26T07:40:57.706Z"
+  },
+  {
+    "studentId": "ARIT-2026-STU01",
+    "studentName": "Aarav Sharma",
+    "course": "Full Stack Development",
+    "date": "2026-11-26",
+    "status": "Present",
+    "markedAt": "01:10 PM",
+    "reason": "",
+    "id": "ATT-1795678857705",
+    "createdAt": "2026-11-26T07:40:57.705Z",
+    "updatedAt": "2026-11-26T07:40:57.705Z"
+  },
+  {
+    "studentId": "ARIT-2026-STU01",
+    "studentName": "Aarav Sharma",
+    "course": "Full Stack Development",
+    "date": "2026-11-25",
+    "status": "Present",
+    "markedAt": "09:05 AM"
+  },
+  {
+    "studentId": "ARIT-2026-STU02",
+    "studentName": "Sneha Patel",
+    "course": "Frontend Development",
+    "date": "2026-11-25",
+    "status": "Present",
+    "markedAt": "09:12 AM"
+  },
+  {
+    "studentId": "ARIT-2026-STU03",
+    "studentName": "Rohan Kulkarni",
+    "course": "Python Programming",
+    "date": "2026-11-25",
+    "status": "Leave",
+    "markedAt": "08:45 AM",
+    "reason": "Medical Checkup"
+  },
+  {
+    "studentId": "ARIT-2026-STU04",
+    "studentName": "Meera Nambiar",
+    "course": "UI/UX Design",
+    "date": "2026-11-25",
+    "status": "Present",
+    "markedAt": "09:00 AM"
+  },
+  {
+    "studentId": "ARIT-2026-STU05",
+    "studentName": "Aditya Srivastava",
+    "course": "Java Programming",
+    "date": "2026-11-25",
+    "status": "Present",
+    "markedAt": "09:10 AM"
+  },
+  {
+    "studentId": "ARIT-2026-STU06",
+    "studentName": "Kavya Ramanathan",
+    "course": "Backend Development",
+    "date": "2026-11-25",
+    "status": "Absent",
+    "markedAt": "10:00 AM"
+  },
+  {
+    "studentId": "ARIT-2026-STU07",
+    "studentName": "Varun Teja",
+    "course": "Web Development",
+    "date": "2026-11-25",
+    "status": "Leave",
+    "markedAt": "08:30 AM",
+    "reason": "College Semester Exam"
+  },
+  {
+    "studentId": "ARIT-2026-STU08",
+    "studentName": "Priyanka Sen",
+    "course": "Full Stack Development",
+    "date": "2026-11-25",
+    "status": "Present",
+    "markedAt": "09:18 AM"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "CRS-08",
+    "name": "DevOps & Cloud Architecture",
+    "category": "Cloud",
+    "duration": "6 Months",
+    "fee": 32000,
+    "status": "Active",
+    "enrolledCount": 0,
+    "modulesCount": 20,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80",
+    "description": "",
+    "createdAt": "2026-11-26T07:40:57.622Z",
+    "updatedAt": "2026-11-26T07:40:57.622Z"
+  },
+  {
+    "id": "CRS-01",
+    "name": "Full Stack Development",
+    "category": "Full Stack",
+    "duration": "6 Months",
+    "fee": 35000,
+    "status": "Active",
+    "enrolledCount": 148,
+    "modulesCount": 24,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80",
+    "description": "Enterprise full stack program covering React 19, Node.js, Express, PostgreSQL, Docker, Redis, and Cloud Deployment."
+  },
+  {
+    "id": "CRS-02",
+    "name": "Frontend Development",
+    "category": "Web Development",
+    "duration": "4 Months",
+    "fee": 25000,
+    "status": "Active",
+    "enrolledCount": 112,
+    "modulesCount": 18,
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80",
+    "description": "Modern UI/UX engineering with HTML5, CSS3/Tailwind, JavaScript ESNext, React, Vite, and responsive accessibility design."
+  },
+  {
+    "id": "CRS-03",
+    "name": "Backend Development",
+    "category": "Backend & Cloud",
+    "duration": "5 Months",
+    "fee": 28000,
+    "status": "Active",
+    "enrolledCount": 94,
+    "modulesCount": 20,
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=600&q=80",
+    "description": "Scalable REST & GraphQL APIs, microservices, authentication systems, database tuning, caching, and CI/CD pipelines."
+  },
+  {
+    "id": "CRS-04",
+    "name": "Python Programming",
+    "category": "Programming & Data",
+    "duration": "3 Months",
+    "fee": 20000,
+    "status": "Active",
+    "enrolledCount": 135,
+    "modulesCount": 16,
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80",
+    "description": "Core to advanced Python, OOP principles, FastAPI web services, automated data parsing, web scraping, and scripting."
+  },
+  {
+    "id": "CRS-05",
+    "name": "Java Programming",
+    "category": "Enterprise Software",
+    "duration": "4 Months",
+    "fee": 24000,
+    "status": "Active",
+    "enrolledCount": 88,
+    "modulesCount": 18,
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=600&q=80",
+    "description": "Core Java, Spring Boot microservices, Hibernate/JPA, design patterns, multi-threading, and enterprise application testing."
+  },
+  {
+    "id": "CRS-06",
+    "name": "UI/UX Design",
+    "category": "Product Design",
+    "duration": "3 Months",
+    "fee": 22000,
+    "status": "Active",
+    "enrolledCount": 76,
+    "modulesCount": 14,
+    "image": "https://images.unsplash.com/photo-1581291518655-9523c93269c4?auto=format&fit=crop&w=600&q=80",
+    "description": "Design thinking, user research, wireframing, high-fidelity Figma prototyping, design systems, usability testing."
+  },
+  {
+    "id": "CRS-07",
+    "name": "Web Development",
+    "category": "Web Development",
+    "duration": "3 Months",
+    "fee": 18000,
+    "status": "Active",
+    "enrolledCount": 104,
+    "modulesCount": 15,
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=600&q=80",
+    "description": "Practical foundation in web architecture, semantic markup, modern CSS grid/flexbox, JavaScript DOM, and API consumption."
+  }
+]

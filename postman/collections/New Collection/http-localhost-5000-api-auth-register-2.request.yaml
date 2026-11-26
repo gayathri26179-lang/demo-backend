@@ -1,0 +1,21 @@
+$kind: http-request
+name: http://localhost:5000/api/auth/register
+description: ""
+url: http://localhost:5000/api/auth/register
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: |-
+    {
+      "name": "AR Admin",
+      "email": "admin@aritcompany.com",
+      "phone": "9876543210",
+      "companyName": "AR IT COMPANY",
+      "password": "Admin12345",
+      "confirmPassword": "Admin12345",
+      "role": "admin",
+      "adminRole": "Admin"
+    }
+order: 3000

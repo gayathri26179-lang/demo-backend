@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ARIT-CERT-2026-0101",
+    "studentId": "ARIT-2026-STU01",
+    "studentName": "Aarav Sharma",
+    "courseName": "Full Stack Development",
+    "duration": "6 Months (June 2026 – November 2026)",
+    "issueDate": "2026-11-20",
+    "theme": "navy",
+    "grade": "A+ (Distinction)",
+    "authorizedSignatory": "Dr. Maya Raman (Managing Director)",
+    "technicalLead": "Rajesh K. Sharma (Technical Head)",
+    "company": "AR IT COMPANY",
+    "verificationCode": "ARIT-VERIFY-0101",
+    "skills": "React 19, Node.js, Express, PostgreSQL, Docker, Microservices"
+  },
+  {
+    "id": "ARIT-CERT-2026-0102",
+    "studentId": "ARIT-2026-STU05",
+    "studentName": "Aditya Srivastava",
+    "courseName": "Java Programming",
+    "duration": "4 Months (June 2026 – October 2026)",
+    "issueDate": "2026-10-28",
+    "theme": "purple",
+    "grade": "A+ (Distinction)",
+    "authorizedSignatory": "Dr. Maya Raman (Managing Director)",
+    "technicalLead": "Siddharth Menon (Technical Lead)",
+    "company": "AR IT COMPANY",
+    "verificationCode": "ARIT-VERIFY-0102",
+    "skills": "Java 21, Spring Boot, Hibernate, REST APIs, Microservices, JUnit"
+  }
+]

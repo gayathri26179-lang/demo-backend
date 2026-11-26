@@ -1,0 +1,80 @@
+[
+  {
+    "id": "TXN-ARIT-8901",
+    "studentId": "ARIT-2026-STU01",
+    "studentName": "Aarav Sharma",
+    "course": "Full Stack Development",
+    "courseFee": 35000,
+    "amountPaid": 35000,
+    "pendingAmount": 0,
+    "paymentDate": "2026-06-10",
+    "paymentStatus": "Paid",
+    "method": "UPI / NetBanking",
+    "receiptNo": "REC-2026-001"
+  },
+  {
+    "id": "TXN-ARIT-8902",
+    "studentId": "ARIT-2026-STU02",
+    "studentName": "Sneha Patel",
+    "course": "Frontend Development",
+    "courseFee": 25000,
+    "amountPaid": 25000,
+    "pendingAmount": 0,
+    "paymentDate": "2026-07-01",
+    "paymentStatus": "Paid",
+    "method": "Credit Card / Razorpay",
+    "receiptNo": "REC-2026-002"
+  },
+  {
+    "id": "TXN-ARIT-8903",
+    "studentId": "ARIT-2026-STU03",
+    "studentName": "Rohan Kulkarni",
+    "course": "Python Programming",
+    "courseFee": 20000,
+    "amountPaid": 12000,
+    "pendingAmount": 8000,
+    "paymentDate": "2026-07-15",
+    "paymentStatus": "Partially Paid",
+    "method": "UPI Transfer",
+    "receiptNo": "REC-2026-003"
+  },
+  {
+    "id": "TXN-ARIT-8904",
+    "studentId": "ARIT-2026-STU04",
+    "studentName": "Meera Nambiar",
+    "course": "UI/UX Design",
+    "courseFee": 22000,
+    "amountPaid": 22000,
+    "pendingAmount": 0,
+    "paymentDate": "2026-08-01",
+    "paymentStatus": "Paid",
+    "method": "Debit Card",
+    "receiptNo": "REC-2026-004"
+  },
+  {
+    "id": "TXN-ARIT-8905",
+    "studentId": "ARIT-2026-STU06",
+    "studentName": "Kavya Ramanathan",
+    "course": "Backend Development",
+    "courseFee": 28000,
+    "amountPaid": 18000,
+    "pendingAmount": 10000,
+    "paymentDate": "2026-08-10",
+    "paymentStatus": "Partially Paid",
+    "method": "Net Banking",
+    "receiptNo": "REC-2026-005"
+  },
+  {
+    "id": "TXN-ARIT-8906",
+    "studentId": "ARIT-2026-STU07",
+    "studentName": "Varun Teja",
+    "course": "Web Development",
+    "courseFee": 18000,
+    "amountPaid": 0,
+    "pendingAmount": 18000,
+    "paymentDate": "2026-09-01",
+    "paymentStatus": "Pending",
+    "method": "Awaiting Payment",
+    "receiptNo": "-"
+  }
+]

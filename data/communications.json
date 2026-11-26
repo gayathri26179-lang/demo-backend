@@ -1,0 +1,54 @@
+[
+  {
+    "id": "COMM-05",
+    "title": "System Integration Notice",
+    "category": "General Announcement",
+    "targetAudience": "All Cohorts",
+    "sentDate": "2026-11-26",
+    "sentBy": "Dr. Maya Raman",
+    "status": "Sent",
+    "content": "Backend and Frontend integration verified successfully.",
+    "createdAt": "2026-11-26T07:40:57.724Z",
+    "updatedAt": "2026-11-26T07:40:57.724Z"
+  },
+  {
+    "id": "COMM-01",
+    "title": "Final Capstone Project Evaluation Schedule",
+    "category": "Internship Announcements",
+    "targetAudience": "All Active Interns (Cohort 2026)",
+    "sentDate": "2026-11-20",
+    "sentBy": "Dr. Maya Raman",
+    "status": "Sent",
+    "content": "All interns scheduled for December evaluation must submit their final GitHub repository links and deployment URLs by Friday 5:00 PM."
+  },
+  {
+    "id": "COMM-02",
+    "title": "Upcoming Tech Webinar: Microservices with Docker & Kubernetes",
+    "category": "Course Announcements",
+    "targetAudience": "Full Stack & Backend Development Batches",
+    "sentDate": "2026-11-18",
+    "sentBy": "Rajesh K. Sharma",
+    "status": "Sent",
+    "content": "Join our senior lead architect for an intensive 2-hour live session on container orchestration and cloud architecture."
+  },
+  {
+    "id": "COMM-03",
+    "title": "Daily Activity Log Reminder",
+    "category": "Activity Reminders",
+    "targetAudience": "All Cohorts",
+    "sentDate": "2026-11-24",
+    "sentBy": "System Automation",
+    "status": "Sent",
+    "content": "Reminder: Daily internship activity logs must be submitted before 8:00 PM every working day for mentor review."
+  },
+  {
+    "id": "COMM-04",
+    "title": "Tuition Fee Balance Clearance Notice",
+    "category": "Payment Reminders",
+    "targetAudience": "Students with Pending Balances",
+    "sentDate": "2026-11-15",
+    "sentBy": "Accounts Department",
+    "status": "Sent",
+    "content": "Kindly clear any pending course installment balances to ensure uninterrupted access to the internship lab and certification."
+  }
+]

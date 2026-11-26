@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ADM-7606",
+    "name": "New Admin Test",
+    "email": "newadmin@aritcompany.com",
+    "phone": "+91 98888 77777",
+    "companyName": "AR IT COMPANY",
+    "password": "$2b$10$CaCvSMPSbnkghJ9r4ddff.EJMuBahA8YKWjlqIiwqQytofSv3DPXa",
+    "role": "admin",
+    "adminrole": "Admin",
+    "createdAt": "2026-11-26T07:40:57.606Z",
+    "updatedAt": "2026-11-26T07:40:57.609Z"
+  },
+  {
+    "id": "ADM-0001",
+    "name": "Dr. Maya Raman",
+    "email": "admin@aritcompany.com",
+    "phone": "+91 98450 00001",
+    "companyName": "AR IT COMPANY",
+    "password": "$2b$10$uZh1ygcl2.ufDeBviz2QQOexlVbeMkrle69y/DkWGiRuuN/L7t7mq",
+    "role": "admin",
+    "adminrole": "Admin"
+  },
+  {
+    "id": "MTR-U01",
+    "name": "Rajesh K. Sharma",
+    "email": "rajesh.sharma@aritcompany.com",
+    "phone": "+91 98450 11223",
+    "companyName": "AR IT COMPANY",
+    "password": "$2b$10$Vbe8Qwnol1vNGJ26bDkjQebsBc/E7U.OjHSJCgQEc3S55Vum/7kHi",
+    "role": "mentor",
+    "adminrole": "Technical Team",
+    "specialization": "Full Stack & Cloud Architecture",
+    "assignedCourse": "Full Stack Development"
+  },
+  {
+    "id": "MTR-U02",
+    "name": "Pooja Sundaram",
+    "email": "pooja.s@aritcompany.com",
+    "phone": "+91 97422 33445",
+    "companyName": "AR IT COMPANY",
+    "password": "$2b$10$xOyUntLxSvKWC9g.YRsYK.8CVP3fqmklsuODQO8/bjXjWdF1socYO",
+    "role": "mentor",
+    "adminrole": "Technical Team",
+    "specialization": "React & Modern Frontend Architecture",
+    "assignedCourse": "Frontend Development"
+  },
+  {
+    "id": "MTR-U03",
+    "name": "Vikramaditya Verma",
+    "email": "vikram.verma@aritcompany.com",
+    "phone": "+91 99001 55667",
+    "companyName": "AR IT COMPANY",
+    "password": "$2b$10$lqktde9AdZSmcg7A4mssAOmQpKFa0helqgk8zQZ..hT2SXxTEicLe",
+    "role": "mentor",
+    "adminrole": "Technical Team",
+    "specialization": "Python & Distributed Systems",
+    "assignedCourse": "Python Programming"
+  },
+  {
+    "id": "MTR-U04",
+    "name": "Anjali Deshmukh",
+    "email": "anjali.d@aritcompany.com",
+    "phone": "+91 98866 77889",
+    "companyName": "AR IT COMPANY",
+    "password": "$2b$10$Z3dRLK7wwDIgzIhCO6mtL.c5PViXFpmMGqAzjyyHK39QncPa5CXIO",
+    "role": "mentor",
+    "adminrole": "Technical Team",
+    "specialization": "UI/UX & Product Design Systems",
+    "assignedCourse": "UI/UX Design"
+  }
+]

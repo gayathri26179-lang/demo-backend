@@ -1,0 +1,57 @@
+[
+  {
+    "id": "MTR-01",
+    "name": "Rajesh K. Sharma",
+    "email": "rajesh.sharma@aritcompany.com",
+    "specialization": "Full Stack & Cloud Architecture",
+    "assignedCourse": "Full Stack Development",
+    "activeStudentsCount": 18,
+    "phone": "+91 98450 11223",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+    "experience": "8+ Years"
+  },
+  {
+    "id": "MTR-02",
+    "name": "Pooja Sundaram",
+    "email": "pooja.s@aritcompany.com",
+    "specialization": "React & Modern Frontend Architecture",
+    "assignedCourse": "Frontend Development",
+    "activeStudentsCount": 14,
+    "phone": "+91 97422 33445",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&q=80",
+    "experience": "6+ Years"
+  },
+  {
+    "id": "MTR-03",
+    "name": "Vikramaditya Verma",
+    "email": "vikram.verma@aritcompany.com",
+    "specialization": "Python & Distributed Systems",
+    "assignedCourse": "Python Programming",
+    "activeStudentsCount": 16,
+    "phone": "+91 99001 55667",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+    "experience": "9+ Years"
+  },
+  {
+    "id": "MTR-04",
+    "name": "Anjali Deshmukh",
+    "email": "anjali.d@aritcompany.com",
+    "specialization": "UI/UX & Product Design Systems",
+    "assignedCourse": "UI/UX Design",
+    "activeStudentsCount": 12,
+    "phone": "+91 98866 77889",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+    "experience": "7+ Years"
+  },
+  {
+    "id": "MTR-05",
+    "name": "Siddharth Menon",
+    "email": "siddharth.m@aritcompany.com",
+    "specialization": "Java Enterprise & Spring Boot",
+    "assignedCourse": "Java Programming",
+    "activeStudentsCount": 15,
+    "phone": "+91 98112 99001",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80",
+    "experience": "10+ Years"
+  }
+]
